@@ -13,7 +13,7 @@ Time to run:
 Memory usage:
 | Python | Rust |
 |---|---|
-| 8320 MB | 6123 MB |
+| 8320 MB | 5605 MB |
 
 
 ## Faça você mesmo
