@@ -21,7 +21,7 @@ Para rodar o teste, você precisa ter apenas o python instalado. Já que o rust 
 
 rust:
 ```bash
-    cd src/rust/target/debug; ./rust
+    ./src/rust/bin
 ```
 
 python:
